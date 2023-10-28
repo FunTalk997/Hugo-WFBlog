@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: 2022-07-15T01:18:35+08:00
+lastmod: "2023-10-29"
 
 # format for string: "xxxx-xx-xx"
 # lastmod: "2022-10-01"
@@ -27,7 +28,7 @@ I confess that, to me, technology is like a pirated version of a grimoire. But t
 
 If you are also a tech geek, or you are immersed in the sea of code, then welcome to my blog! We laugh at technology together, get rid of complexity, and enjoy the journey of discovery.
 
-You can reach me at DHTSANG@126.com
+You can reach me at wf121506@gmail.com
 
 # About blogs
 Originally built 2022-07-15, it started as an interest and ended.
