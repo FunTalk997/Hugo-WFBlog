@@ -1,0 +1,10 @@
+<div id="vcomments"></div>
+<script type="text/javascript">
+    lang = {{ .Site.Language.Lang }};
+    
+    Waline.init({
+        el: '#vcomments',
+        serverURL: {{ .Site.Params.waline.serverURL }} ,
+        lang: lang
+    })
+</script>
